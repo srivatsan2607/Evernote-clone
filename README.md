@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+This is a Evernote clone created with the help of udemy course - "React - The Complete Guide with React Hook Redux 2021 in 4hr" by instructor "Kim Chen"
+
+1) You can create a note,edit it, delete it and favourite it with help of redux and hooks
+2) Firebase backend 
+
+
+Create a .env file and mention all the firebase credentials as mentioned in keys.js file
+
